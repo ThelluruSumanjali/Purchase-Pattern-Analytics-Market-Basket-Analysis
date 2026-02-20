@@ -29,7 +29,10 @@ Identify customer purchase patterns and generate association rules to support cr
 - Enabled data-driven marketing decisions
 
 ## 📷 Dashboard Preview
-![Dashboard](images/purchase_trends.png)
+<img width="1323" height="745" alt="Screenshot 2026-02-20 101802" src="https://github.com/user-attachments/assets/070eaf3f-1f09-4d61-b225-988578998d1a" />
+<img width="1328" height="743" alt="Screenshot 2026-02-20 101855" src="https://github.com/user-attachments/assets/f64769a9-a68e-4278-b51e-710b7c37cbf4" />
+
+
 
 ## 🚀 How to Run
 ```bash
